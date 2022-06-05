@@ -1,0 +1,222 @@
+@prefix id: <https://mcu.com/> .
+@prefix film: <https://mcu.com/ns/film#> .
+
+id:A001
+    film:NamaFilm       "Iron Man" ;
+    film:ReleaseDate    "May 2, 2008" ;
+    film:Duration       "2h 6min" ;
+    film:Director       "Jon Favreau" ;
+    film:Producer       "Avi Arad and Kevin Feige" ;
+    film:IMDB           "7.9" ;
+    film:Metascore      "79" ;
+    film:Cast           "Robert Downey Jr. , Gweneth Paltrow , Terrence Howard" ;
+    film:Budget         "$140,000,000" .
+
+id:A002
+    film:NamaFilm       "The Incredible Hulk" ;
+    film:ReleaseDate    "June 13, 2008" ;
+    film:Duration       "1h 52min" ;
+    film:Director       "Louis Leterrier" ;
+    film:Producer       "Avi Arad ,Gale Ann Hurd and Kevin Feige" ;
+    film:IMDB           "6.6" ;
+    film:Metascore      "61" ;
+    film:Cast           "Edward Norton , Liv Tyler , Tim Roth" ;
+    film:Budget         "$150,000,000" .
+
+id:A003
+    film:NamaFilm       "Iron Man 2" ;
+    film:ReleaseDate    "May 7, 2010" ;
+    film:Duration       "2h 4min" ;
+    film:Director       "Jon Favreau" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7" ;
+    film:Metascore      "57" ;
+    film:Cast           "Robert Downey Jr. , Gweneth Paltrow , Mickey Rourke" ;
+    film:Budget         "$200,000,000" .
+
+id:A004
+    film:NamaFilm       "Thor" ;
+    film:ReleaseDate    "May 6, 2011" ;
+    film:Duration       "1h 55min" ;
+    film:Director       "Kenneth Branagh" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7" ;
+    film:Metascore      "57" ;
+    film:Cast           "Chris Hemsworth , Anthony Hopkins , Natalie Portman" ;
+    film:Budget         "$150,000,000" .
+
+id:A005
+    film:NamaFilm       "Captain America: The first Avenger" ;
+    film:ReleaseDate    "July 22, 2011" ;
+    film:Duration       "2h 4min" ;
+    film:Director       "Joe Jhonston" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "6.9" ;
+    film:Metascore      "66" ;
+    film:Cast           "Chris Evans , Hugo Weaving , Samuel L. Jackson" ;
+    film:Budget         "$140,000,000" .
+    
+id:A006
+    film:NamaFilm       "Marvel's the Avengers" ;
+    film:ReleaseDate    "May 4, 2012" ;
+    film:Duration       "2h 23min" ;
+    film:Director       "Joss Whedon" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "8" ;
+    film:Metascore      "69" ;
+    film:Cast           "Robert Downey Jr. , Chris Evans , Scarlett Johansson , Jeremy Renner" ;
+    film:Budget         "$220,000,000" .
+
+id:A007
+    film:NamaFilm       "Iron Man 3" ;
+    film:ReleaseDate    "May 3, 2013" ;
+    film:Duration       "2h 10min" ;
+    film:Director       "Shane Black" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.1" ;
+    film:Metascore      "62" ;
+    film:Cast           "Robert Downey Jr. , Gweneth Paltrow , Guy Pearce" ;
+    film:Budget         "$200,000,000" .
+
+id:A008
+    film:NamaFilm       "Thor: The dark world" ;
+    film:ReleaseDate    "November 8, 2013" ;
+    film:Duration       "1h 52min" ;
+    film:Director       "Alan Taylor" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "6.8" ;
+    film:Metascore      "54" ;
+    film:Cast           "Chris Hemsworth , Natalie Portman , Tom Hiddleston 10" ;
+    film:Budget         "$170,000,000" .
+    
+id:A009
+    film:NamaFilm       "Captain America : The Winter Soldier" ;
+    film:ReleaseDate    "April 4, 2014" ;
+    film:Duration       "2h 16min" ;
+    film:Director       "Anthony and Joe Russo" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.7" ;
+    film:Metascore      "78" ;
+    film:Cast           "Chris Evans , Scarlett Johansson , Samuel L. Jackson" ;
+    film:Budget         "$170,000,000" .
+
+id:A010
+    film:NamaFilm       "Guardians Of the Galaxy" ;
+    film:ReleaseDate    "August 1, 2014" ;
+    film:Duration       "2h 1min" ;
+    film:Director       "James Gunn" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "8" ;
+    film:Metascore      "76" ;
+    film:Cast           "Chris Patt , Vin Diesel , Bradely Cooper" ;
+    film:Budget         "$170,000,000" .
+
+id:A011
+    film:NamaFilm       "Avengers : Age of ultron" ;
+    film:ReleaseDate    "May 1, 2015" ;
+    film:Duration       "2h 21min" ;
+    film:Director       "Joss Whedon" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.3" ;
+    film:Metascore      "66" ;
+    film:Cast           "Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo ";
+    film:Budget         "$250,000,000" .
+    
+id:A012
+    film:NamaFilm       "Ant-Man" ;
+    film:ReleaseDate    "July 17, 2015" ;
+    film:Duration       "1h 57min" ;
+    film:Director       "Peyton Reed" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.3" ;
+    film:Metascore      "64" ;
+    film:Cast           "Paul Rudd , Michael Douglas , Corey Stall" ;
+    film:Budget         "$130,000,000" .
+
+id:A013
+    film:NamaFilm       "Captain America: Civil War" ;
+    film:ReleaseDate    "May 6, 2016" ;
+    film:Duration       "2h 27min" ;
+    film:Director       "Anthony and Joe Russo" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.8" ;
+    film:Metascore      "75" ;
+    film:Cast           "Robert Downey Jr. , Chris Evans , Scarlett Johansson , Sebastian Stan" ;
+    film:Budget         "$250,000,000" .
+
+id:A014
+    film:NamaFilm       "Doctor Strange" ;
+    film:ReleaseDate    "November 4, 2016" ;
+    film:Duration       "1h 55min" ;
+    film:Director       "Scott Derrickson" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.5" ;
+    film:Metascore      "72" ;
+    film:Cast           "Benedict Cumberbatch , Chiswetel Ejiofor , Racheal McAdams" ;
+    film:Budget         "$165,000,000" .
+    
+id:A015
+    film:NamaFilm       "Guardians of the Galaxy Vol. 2" ;
+    film:ReleaseDate    "May 5, 2017" ;
+    film:Duration       "2h 16min" ;
+    film:Director       "James Gunn" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.6" ;
+    film:Metascore      "67" ;
+    film:Cast           "Chris Patt , Zoe Saldana , Dave Bautista , Vin Diesel" ;
+    film:Budget         "$200,000,000" .
+
+id:A016
+    film:NamaFilm       "Spider-Man:Homecoming" ;
+    film:ReleaseDate    "July 7, 2017" ;
+    film:Duration       "2h 13min" ;
+    film:Director       "Jon Watts" ;
+    film:Producer       "Kevin Feige and Amy Pascal" ;
+    film:IMDB           "7.4" ;
+    film:Metascore      "73" ;
+    film:Cast           "Tom Holland , Michael Keaton , Robert Downey Jr." ;
+    film:Budget         "$175,000,000" .
+
+id:A017
+    film:NamaFilm       "Thor:Ragnarok" ;
+    film:ReleaseDate    "November 3, 2017" ;
+    film:Duration       "2h 10min" ;
+    film:Director       "Taika Waititi" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.9" ;
+    film:Metascore      "74" ;
+    film:Cast           "Chris Hemsworth , Cate Blanchett , Tom Hiddleston" ;
+    film:Budget         "$180,000,000" .
+    
+id:A018
+    film:NamaFilm       "Black Panther" ;
+    film:ReleaseDate    "February 16, 2018" ;
+    film:Duration       "2h 14min" ;
+    film:Director       "Ryan Coogler" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "7.3" ;
+    film:Metascore      "88" ;
+    film:Cast           "Chadwick Boseman , Michael B. Jordan , Lupita Nyong'o" ;
+    film:Budget         "$200,000,000" .
+
+id:A019
+    film:NamaFilm       "Avengers: Infinity War" ;
+    film:ReleaseDate    "April 27, 2018" ;
+    film:Duration       "2h 29min" ;
+    film:Director       "Anthony and Joe Russo" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "8.4" ;
+    film:Metascore      "68" ;
+    film:Cast           "Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin" ;
+    film:Budget         "$300,000,000" .
+    
+id:A020
+    film:NamaFilm       "Ant-Man and the Wasp" ;
+    film:ReleaseDate    "July 6, 2018" ;
+    film:Duration       "1h 58min" ;
+    film:Director       "Peyton Reed" ;
+    film:Producer       "Kevin Feige and Stephen Broussard" ;
+    film:IMDB           "7" ;
+    film:Metascore      "70" ;
+    film:Cast           "Paul Rudd , Evangeline Lilly , Micheal Pena" ;
+    film:Budget         "$130,000,000" .

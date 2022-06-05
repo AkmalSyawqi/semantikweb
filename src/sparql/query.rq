@@ -1,0 +1,17 @@
+@prefix id: <https://mcu.com/> .
+@prefix film: <https://mcu.com/ns/film#> .
+
+SELECT ?NamaFilm ?ReleaseDate ?Duration ?Director ?Producer ?IMDB ?Metascore ?Cast ?Budget
+                WHERE
+                { 
+                    ?films
+                    film:NamaFilm       ?NamaFilm ;
+                    film:ReleaseDate    ?ReleaseDate ;
+                    film:Duration       ?Duration ;
+                    film:Director       ?Director ;
+                    film:Producer       ?Producer ;
+                    film:IMDB           ?IMDB ;
+                    film:Metascore      ?Metascore ;
+                    film:Cast           ?Cast ;
+                    film:Budget         ?Budget .
+                }

@@ -114,7 +114,7 @@
         <?php
         if ($searchInput != NULL) {
         ?>
-            <i class="fa-solid fa-magnifying-glass"></i><span>Menampilkan hasil pencarian untuk <b>"<?php echo $searchInput; ?>"</b></span>
+            <i class="fa-solid fa-magnifying-glass" style="color:white"></i><span style="color:white">Menampilkan hasil pencarian untuk <b>"<?php echo $searchInput; ?>"</b></span>
         <?php
         }
         ?>

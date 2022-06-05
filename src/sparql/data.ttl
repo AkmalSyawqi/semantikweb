@@ -220,3 +220,36 @@ id:A020
     film:Metascore      "70" ;
     film:Cast           "Paul Rudd , Evangeline Lilly , Micheal Pena" ;
     film:Budget         "$130,000,000" .
+
+id:A021
+    film:NamaFilm       "Captain-Marvel" ;
+    film:ReleaseDate    "March 8, 2019" ;
+    film:Duration       "2h 3min" ;
+    film:Director       "Anna Boden and Ryan Fleck" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "6.8" ;
+    film:Metascore      "64" ;
+    film:Cast           "Brie Larson , Samuel L. Jackson , Ben Mendelsohn" ;
+    film:Budget         "$160,000,000" .
+    
+id:A022
+    film:NamaFilm       "Ant-Man and the Wasp" ;
+    film:ReleaseDate    "April 26, 2019" ;
+    film:Duration       "3h 1min" ;
+    film:Director       "Anthony and Joe Russo" ;
+    film:Producer       "Kevin Feige" ;
+    film:IMDB           "8.4" ;
+    film:Metascore      "78" ;
+    film:Cast           "Robert Downey Jr. , Chris Evans , Chris Hemsworth , Mark Ruffalo , Josh Brolin" ;
+    film:Budget         "$356,000,000" .
+
+id:A023
+    film:NamaFilm       "Spider-Man:Far From Home" ;
+    film:ReleaseDate    "July 2, 2019" ;
+    film:Duration       "2h 9min" ;
+    film:Director       "Jon Watts" ;
+    film:Producer       "Kevin Feige and Amy Pascal" ;
+    film:IMDB           "7.5" ;
+    film:Metascore      "69" ;
+    film:Cast           "Tom Holland , Samuel L. Jackson , Jake Gyllenhaal" ;
+    film:Budget         "$160,000,000" .

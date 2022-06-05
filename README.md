@@ -6,10 +6,10 @@ MCU Search adalah website yang dapat membantu anda mencari data-data terkait fil
 
 ### Built With
 
-- [Bootstrap](https://getbootstrap.com/)
-- [XAMPP](https://www.apachefriends.org/download.html)
 - [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/index.html)
 - [NGROK](https://ngrok.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [XAMPP](https://www.apachefriends.org/download.html)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ MCU Search adalah website yang dapat membantu anda mencari data-data terkait fil
 ## Installation
 
 1. Prepare and install all Requirements
-2. Clone Project on XAMPP folder (../xampp/htdocs)
+2. Clone Project on XAMPP folder
    ```sh
        git clone https://github.com/AkmalSyawqi/semantikweb
    ```
@@ -38,7 +38,7 @@ MCU Search adalah website yang dapat membantu anda mencari data-data terkait fil
    ```
        ngrok http 3030
    ```
-5. Add turtle file on `/src/sparql/data.ttl` to Apache Jena Fuseki on http://localhost:3030/
+5. Add turtle file to Apache Jena Fuseki on http://localhost:3030/
 6. Run the app
    ```sh
        http://localhost/semantikweb/
